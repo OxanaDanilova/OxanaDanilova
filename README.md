@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋. I'm Oxana.
+📚️ I'm currently learning Web Development at Digital Career Institute (December 2021 - February 2022)
+🌱 I'm always looking for new challenges and self development
+I speak 🇬🇧️ english,  🇩🇪️ german,  🇷🇺️ russian.
 
 <!--
 **OxanaDanilova/OxanaDanilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
