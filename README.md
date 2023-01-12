@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 _______________________
-
+<!--
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OxanaDanilova&layout=compact)
+-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true)
 
