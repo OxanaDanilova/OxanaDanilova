@@ -26,7 +26,6 @@ _______________________
 
 ____________________________
 
-**Languages and Tools:**  
 
 ## Languages and Tools:
 <p align="left">
