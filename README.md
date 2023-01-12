@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 _______________________
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=oxanadanilova&theme=highcontrast&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true)
