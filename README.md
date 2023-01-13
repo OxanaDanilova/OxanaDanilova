@@ -22,6 +22,8 @@ _______________________
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OxanaDanilova&layout=compact)
 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OxanaDanilova&count_private=true&show_icons=true&theme=dark) 
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true)
 
