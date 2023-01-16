@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 _______________________
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40"/> </a>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true" alt="Total contributions" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true)
 
 ____________________________
 
