@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 -->
 _______________________
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OxanaDanilova&layout=compact)
-
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40"/> </a>
 
 
