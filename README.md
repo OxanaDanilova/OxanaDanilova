@@ -22,6 +22,8 @@ _______________________
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OxanaDanilova&layout=compact)
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40"/> </a>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true)
 
