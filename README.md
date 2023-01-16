@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 -->
 _______________________
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
+<p align="center"> <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OxanaDanilova&theme=react&line_height=40" alt="Top used languages" />
+</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true" alt="Total contributions" />
-
-
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=OxanaDanilova&theme=neon-palenight&hide_border=true" alt="Total contributions" />
+</p>
 ____________________________
 
 
