@@ -1,6 +1,10 @@
 ### Hi there 👋. I'm Oxana.
-- 🌱  I'm currently learning Web Development at Digital Career Institute (December 2021 - February 2023)
-- 🔭  I'm always looking for new challenges and self development
+- 🔭 I'm actively seeking a job or internship as a Junior Frontend Developer.
+
+- 👩‍🎓️ In December 2022 I completed a one-year full-time training, including technologies from the MERN stack.
+
+- 🌱 I'm always looking for new challenges and striving for self-development.
+
 - I speak 🇬🇧️ english,  🇩🇪️ german,  🇷🇺️ russian.
 
 
