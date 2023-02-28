@@ -1,5 +1,5 @@
 ### Hi there 👋. I'm Oxana.
-- 🔭 I'm actively seeking a job or internship as a Junior Frontend Developer.
+- 🔭 I'm actively seeking a job or internship as a Frontend Developer.
 
 - 👩‍🎓️ In December 2022 I completed a one-year full-time training, including technologies from the MERN stack.
 
